@@ -1,8 +1,7 @@
 
 Objective : Performing Exploratory Data Analysis with Netflix Dataset<BR>
-Domain: OTT<BR><BR>
-
-Video Link: https://www.youtube.com/watch?v=pGyNxfUtRKw<br>
+Domain: OTT<BR>
+Video Link: https://www.youtube.com/watch?v=pGyNxfUtRKw<br><BR>
 
 Finding answers to the following questions :
 1. Total Content on Netflix

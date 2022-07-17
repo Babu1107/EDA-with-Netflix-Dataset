@@ -19,7 +19,7 @@ Analysis Result :
 4. Netflix has TV Shows from 1 season to 17 season. 1791 of TV Shows has 1 Seasons  and 6 Tv Shows has 10 Seasons 
 5. In the year 2018 Netflix releases about 1146 contents
 6. In the year 2018 the highest of about 767 Movie content has be released where as in the year 2020 the highest of about 436 TV Show content has be released.
-7. Top 10 movie directors from India with more content. David Dhawan holds the first position
+7. Top 10 movie directors from India with more content. David Dhawan holds the first position<BR>
  • David Dhawan
  • Anurag Kashyap
  • Ram Gopal Varma
@@ -31,7 +31,7 @@ Analysis Result :
  • Rajiv Mehra
  • Rohit Shetty
 
-8. Top 10 movie directors from US with more content. Rajiv Chilaka holds the first position
+8. Top 10 movie directors from US with more content. Rajiv Chilaka holds the first position<BR>
  • Rajiv Chilaka
  • Jay Karas
  • Suhas Kadav
